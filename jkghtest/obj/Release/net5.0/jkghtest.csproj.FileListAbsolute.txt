@@ -1,0 +1,15 @@
+D:\GitHub\jkghtest_1\jkghtest\bin\Release\net5.0\jkghtest.exe
+D:\GitHub\jkghtest_1\jkghtest\bin\Release\net5.0\jkghtest.deps.json
+D:\GitHub\jkghtest_1\jkghtest\bin\Release\net5.0\jkghtest.runtimeconfig.json
+D:\GitHub\jkghtest_1\jkghtest\bin\Release\net5.0\jkghtest.runtimeconfig.dev.json
+D:\GitHub\jkghtest_1\jkghtest\bin\Release\net5.0\jkghtest.dll
+D:\GitHub\jkghtest_1\jkghtest\bin\Release\net5.0\ref\jkghtest.dll
+D:\GitHub\jkghtest_1\jkghtest\bin\Release\net5.0\jkghtest.pdb
+D:\GitHub\jkghtest_1\jkghtest\obj\Release\net5.0\jkghtest.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\jkghtest_1\jkghtest\obj\Release\net5.0\jkghtest.AssemblyInfoInputs.cache
+D:\GitHub\jkghtest_1\jkghtest\obj\Release\net5.0\jkghtest.AssemblyInfo.cs
+D:\GitHub\jkghtest_1\jkghtest\obj\Release\net5.0\jkghtest.csproj.CoreCompileInputs.cache
+D:\GitHub\jkghtest_1\jkghtest\obj\Release\net5.0\jkghtest.dll
+D:\GitHub\jkghtest_1\jkghtest\obj\Release\net5.0\ref\jkghtest.dll
+D:\GitHub\jkghtest_1\jkghtest\obj\Release\net5.0\jkghtest.pdb
+D:\GitHub\jkghtest_1\jkghtest\obj\Release\net5.0\jkghtest.genruntimeconfig.cache
