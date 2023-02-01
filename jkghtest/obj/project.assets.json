@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\jkghtest_1\\jkghtest\\jkghtest.csproj",
+      "projectUniqueName": "D:\\git_test\\jkghtest\\jkghtest.csproj",
       "projectName": "jkghtest",
-      "projectPath": "D:\\GitHub\\jkghtest_1\\jkghtest\\jkghtest.csproj",
+      "projectPath": "D:\\git_test\\jkghtest\\jkghtest.csproj",
       "packagesPath": "C:\\Users\\jopark\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\jkghtest_1\\jkghtest\\obj\\",
+      "outputPath": "D:\\git_test\\jkghtest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
